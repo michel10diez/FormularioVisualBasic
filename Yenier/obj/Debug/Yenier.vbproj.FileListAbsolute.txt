@@ -1,0 +1,11 @@
+c:\users\miche\documents\visual studio 2017\Projects\Yenier\Yenier\bin\Debug\Yenier.exe.config
+c:\users\miche\documents\visual studio 2017\Projects\Yenier\Yenier\bin\Debug\Yenier.exe
+c:\users\miche\documents\visual studio 2017\Projects\Yenier\Yenier\bin\Debug\Yenier.pdb
+c:\users\miche\documents\visual studio 2017\Projects\Yenier\Yenier\bin\Debug\Yenier.xml
+c:\users\miche\documents\visual studio 2017\Projects\Yenier\Yenier\obj\Debug\Yenier.vbprojResolveAssemblyReference.cache
+c:\users\miche\documents\visual studio 2017\Projects\Yenier\Yenier\obj\Debug\Yenier.Form1.resources
+c:\users\miche\documents\visual studio 2017\Projects\Yenier\Yenier\obj\Debug\Yenier.Resources.resources
+c:\users\miche\documents\visual studio 2017\Projects\Yenier\Yenier\obj\Debug\Yenier.vbproj.GenerateResource.Cache
+c:\users\miche\documents\visual studio 2017\Projects\Yenier\Yenier\obj\Debug\Yenier.exe
+c:\users\miche\documents\visual studio 2017\Projects\Yenier\Yenier\obj\Debug\Yenier.xml
+c:\users\miche\documents\visual studio 2017\Projects\Yenier\Yenier\obj\Debug\Yenier.pdb
